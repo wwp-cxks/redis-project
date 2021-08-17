@@ -1,0 +1,19 @@
+server:
+  port: 2333
+
+spring:
+  redis:
+    host: 47.107.84.60
+    port: 6379
+    password: cxks-wwp
+    database: 5
+    lettuce:
+      pool:
+        max-wait: -1ms #
+        min-idle: 0 #
+        max-idle: 8 #
+        max-active: 8 #
+    timeout: 100s
+
+Swagger:
+  enabled: true # 线上一般关闭

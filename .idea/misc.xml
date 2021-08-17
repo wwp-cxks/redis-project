@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/List/blackList/pom.xml" />
+        <option value="$PROJECT_DIR$/List/Redis-jhs/pom.xml" />
+        <option value="$PROJECT_DIR$/String/StringRedis/pom.xml" />
+        <option value="$PROJECT_DIR$/Set/lottery/pom.xml" />
+        <option value="$PROJECT_DIR$/Set/blackList/pom.xml" />
+        <option value="$PROJECT_DIR$/Set/lottery-zfb/pom.xml" />
+        <option value="$PROJECT_DIR$/Set/lottery-jd/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-common/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

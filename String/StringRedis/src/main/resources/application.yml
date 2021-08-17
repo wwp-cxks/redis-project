@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: 47.107.84.60
+    port: 6379
+    password: cxks-wwp
+    database: 0

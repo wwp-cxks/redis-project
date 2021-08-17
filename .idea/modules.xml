@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/List/Redis-jhs/Redis-jhs.iml" filepath="$PROJECT_DIR$/List/Redis-jhs/Redis-jhs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/StringRedis/StringRedis.iml" filepath="$PROJECT_DIR$/String/StringRedis/StringRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/blackList/blackList.iml" filepath="$PROJECT_DIR$/Set/blackList/blackList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/lottery/lottery-jd.iml" filepath="$PROJECT_DIR$/Set/lottery/lottery-jd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/lottery-zfb/lottery-zfb.iml" filepath="$PROJECT_DIR$/Set/lottery-zfb/lottery-zfb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-common/redis-common.iml" filepath="$PROJECT_DIR$/redis-common/redis-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redis-project.iml" filepath="$PROJECT_DIR$/.idea/redis-project.iml" />
+    </modules>
+  </component>
+</project>
